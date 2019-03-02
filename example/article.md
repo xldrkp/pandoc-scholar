@@ -9,7 +9,7 @@ author:
       orcid: 0000-00e00-0000-0000
       equal_contributor: "yes"
       correspondence: "yes"
-  - John Q. Doe:
+  - John Q. A. Doe:
       institute: fosg
       equal_contributor: "yes"
   - Peder Ås:
@@ -135,5 +135,5 @@ et eius consequatur veritatis hic expedita ea.
 
 # References
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5OTU4NTUwMywtMTMwMzA1MTU2OV19
+eyJoaXN0b3J5IjpbLTEwNzIzNjU1MThdfQ==
 -->
