@@ -1,7 +1,7 @@
 ---
 title: Example article written in pandoc-flavored Markdown
 author:
-  - Janette Doe:
+  - Janettes Doe:
       institute:
         - fosg
         - fop
@@ -135,5 +135,6 @@ et eius consequatur veritatis hic expedita ea.
 
 # References
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzIzNjU1MThdfQ==
+eyJoaXN0b3J5IjpbLTE4NzAwNDA0NjEsLTEwNzIzNjU1MThdfQ
+==
 -->
