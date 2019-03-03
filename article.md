@@ -9,7 +9,7 @@ author:
       orcid: 0000-00e00-0000-0000
       equal_contributor: "yes"
       correspondence: "yes"
-  - John Q. Doe:
+  - John Q. A. Doe:
       institute: fosg
       equal_contributor: "yes"
   - Peder Ås:
@@ -134,6 +134,3 @@ Ut dolores natus et sunt delectus nulla. Ipsum eum quia ex est ut quia. Ratione
 et eius consequatur veritatis hic expedita ea.
 
 # References
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5OTU4NTUwM119
--->
