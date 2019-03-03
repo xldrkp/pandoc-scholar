@@ -135,8 +135,8 @@ et eius consequatur veritatis hic expedita ea.
 
 # References
 
-Es folgen einige Literaturhinweise:
+Es folgen einige Literaturhinweise. Man braucht nicht alles zu lesen.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4Nzk4NTIyNSwtMTgxODI2MTk3MiwtMj
-YwMDk2NzMyLDEyNTY3MDM2MjddfQ==
+eyJoaXN0b3J5IjpbLTI0NjUwNjkxNSwxNzg3OTg1MjI1LC0xOD
+E4MjYxOTcyLC0yNjAwOTY3MzIsMTI1NjcwMzYyN119
 -->
