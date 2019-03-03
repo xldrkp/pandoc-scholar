@@ -12,7 +12,7 @@ LUA_FILTERS_PATH      ?= $(PANDOC_SCHOLAR_PATH)/lua-filters
 # Configuration (overwrite using Makefile.local.in if necessary)
 ARTICLE_FILE          ?= example/article.md
 OUTFILE_PREFIX        ?= outfile
-DEFAULT_EXTENSIONS    ?= latex pdf docx odt epub html
+DEFAULT_EXTENSIONS    ?= latex pdf docx odt epub html jats
 JSON_FILE             ?= $(OUTFILE_PREFIX).enriched.json
 FLATTENED_JSON_FILE   ?= $(OUTFILE_PREFIX).flattened.json
 LUA_FILTERS           ?= $(LUA_FILTERS_PATH)/cito/cito.lua \
