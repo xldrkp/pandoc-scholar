@@ -12,7 +12,7 @@ author:
   - John Q. A. Doe:
       institute: fosg
       equal_contributor: "yes"
-  - Peder Ås:
+  - Peders Ås:
       institute: fosg
   - Juan Pérez:
       institute: acme
@@ -135,5 +135,5 @@ et eius consequatur veritatis hic expedita ea.
 
 # References
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NjcwMzYyN119
+eyJoaXN0b3J5IjpbLTI2MDA5NjczMiwxMjU2NzAzNjI3XX0=
 -->
