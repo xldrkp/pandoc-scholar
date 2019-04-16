@@ -71,7 +71,7 @@ $(OUTFILE_PREFIX).html: $(JSON_FILE) \
 	       --css=$(TEMPLATE_STYLE_HTML) \
 	       --self-contained \
 	       --mathjax \
-	       --output $@ $^
+	       --output $@ $<
 
 $(OUTFILE_PREFIX).jsonld: $(JSON_FILE) \
 		$(BIBLIOGRAPHY_FILE) \
