@@ -26,7 +26,7 @@ $(JSON_FILE): $(ARTICLE_FILE) $(LUA_FILTERS)
 	pandoc $(PANDOC_READER_OPTIONS) \
 		     $(foreach filter, $(LUA_FILTERS), --lua-filter=$(filter)) \
 	       --to=json \
-	       --output=$@ $<
+	       --output=$@ $^
 
 $(OUTFILE_PREFIX).pdf $(OUTFILE_PREFIX).latex: \
 		$(JSON_FILE) \
