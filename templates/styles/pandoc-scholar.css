@@ -175,6 +175,10 @@ hr {
   margin: 0 0 24px;
 }
 
+.article-body {
+  margin-top: 20px;
+}
+
 /* Images */
 
 img {
